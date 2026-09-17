@@ -25,7 +25,7 @@ I can also verify the numbers mentioned below by showing the live admin dashboar
 
 | Metric | Result |
 | --- | ---: |
-| Users reached on the live platform | **~50K** |
+| Users reached on the live platform | **~50000** |
 | Player logins | **12,000+** |
 | Registration payments processed | **₹16 lakh+** |
 | Transactional emails delivered | **20,000+** |
